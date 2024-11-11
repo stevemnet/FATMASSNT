@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959087156530",
+    "project_id": "fatmassnt-3a2e6",
+    "storage_bucket": "fatmassnt-3a2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959087156530:android:e5f484e5e10443e87b8b2b",
+        "android_client_info": {
+          "package_name": "com.fatmassntInvestment.fatmassnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959087156530-u6q92dtq3lllf9okkjd4tf4681m4hfud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatmassntInvestment.fatmassnt",
+            "certificate_hash": "fb6b43ce5050b909b6fde24ef5423c249c73592b"
+          }
+        },
+        {
+          "client_id": "959087156530-04vakc4mg5cm5djeka9na871ghloocf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gW9aXQchveuwGPWdl-Qwg6gNd6oBbzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959087156530-04vakc4mg5cm5djeka9na871ghloocf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
